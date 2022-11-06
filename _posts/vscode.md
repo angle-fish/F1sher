@@ -1,3 +1,3 @@
-# 这里我们简单给vscode 配置一下python
+# Vscode 配置 Python
 
 this is my first post
